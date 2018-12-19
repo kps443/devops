@@ -1,0 +1,18 @@
+GIT commands
+------------
+
+git status ------>>> git status is a command to know about repository status
+
+git add . ---->> git add is a command to move the file from working area to staging area
+
+git commit -m "message" ---->> to commit the files 
+
+git  push url master
+
+or
+
+git push origin branch_name
+
+git pull origin branch_master
+
+
